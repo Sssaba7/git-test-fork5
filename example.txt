@@ -5,3 +5,4 @@ text
 stash
 
 изменили файл в ветке develop
+изменили файл example локально
